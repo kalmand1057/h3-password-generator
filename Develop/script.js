@@ -28,5 +28,25 @@ function writePassword() {
   } 
 }
 
+//Generator Functions
+function randomLowercase() {
+  return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
+}
+console.log(randomLowercase());
+
+function randomUppercase() {
+  return String.fromCharCode(Math.floor(Math.random() * 26) + 65);
+}
+console.log(randomUppercase());
+
+function randomNumerics() {
+  return String.fromCharCode(Math.floor(Math.random() * 10) + 48);
+}
+console.log(randomNumerics());
+
+function randomSymbols() {
+  return String.fromCharCode(Math.floor(Math.random() * 10) + 33);
+}
+console.log(randomSymbols());
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
