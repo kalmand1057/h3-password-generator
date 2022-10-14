@@ -12,3 +12,6 @@ In the app you will be able to choose how many characters you would like in the 
 and if you would like lower case, upper case, numbers, or special characters included in 
 the randomized password. Once you select what you would like to include, the new 
 password will show in the box below "Generate a Password".
+
+## Launch Site
+https://kalmand1057.github.io/h3-password-generator/
