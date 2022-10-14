@@ -13,5 +13,5 @@ and if you would like lower case, upper case, numbers, or special characters inc
 the randomized password. Once you select what you would like to include, the new 
 password will show in the box below "Generate a Password".
 
-## Launch Site
+## Deployed Application
 https://kalmand1057.github.io/h3-password-generator/
